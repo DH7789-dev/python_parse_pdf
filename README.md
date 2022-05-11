@@ -13,7 +13,7 @@ git clone https://github.com/DH7789-dev/python_parse_pdf.git
 ## Usage
 
 ```bash
- py main.py "path absolute for pdf document" "path absolute for file write
+ py main.py "path absolute for pdf document" "path absolute for write file"
 ```
 
 ## Contributing
